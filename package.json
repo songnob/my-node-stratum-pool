@@ -30,7 +30,7 @@
         "url": "https://github.com/ComputerCraftr/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ComputerCraftr/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/songnob/my-node-multi-hash.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
